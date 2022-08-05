@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "id": 1,
+      "title": "Тест №1",
+      "description": "Описание"
+    },
+    {
+      "id": 2,
+      "title": "Тест №2",
+      "description": "Описание"
+    },
+    {
+      "id": 3,
+      "title": "Тест №3",
+      "description": "Описание"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
